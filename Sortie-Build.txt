@@ -1,0 +1,6 @@
+﻿L'opération de génération a démarré...
+1>------ Début de la génération : Projet : Laboratoire 08, Configuration : Debug Any CPU ------
+1>C:\Users\louis\OneDrive - Collège Lionel-Groulx\école\informatique\Laboratoire 08\Program.cs(63,19,63,42): warning CS0168: La variable 'tableauDiviseurscommuns' est déclarée, mais jamais utilisée
+1>C:\Users\louis\OneDrive - Collège Lionel-Groulx\école\informatique\Laboratoire 08\Program.cs(61,22,61,45): error CS0161: 'Program.TrouverDiviseursCommuns(int[], int[])' : les chemins du code ne retournent pas tous une valeur
+1>Génération du projet "Laboratoire 08.csproj" terminée -- ÉCHEC.
+========== Génération : 0 a réussi, 1 a échoué, 0 à jour, 0 a été ignoré ==========
